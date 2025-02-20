@@ -1,0 +1,16 @@
+Report about logs of web-server
+===============================
+
+Number of requests: $total_requests
+
+Number of unique IP: $unique_ips
+
+
+Number of requests:
+
+GET : $get_count
+POST : $post_count
+
+Most popular URL: $popular_url
+
+===============================
